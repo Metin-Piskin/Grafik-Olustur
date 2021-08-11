@@ -1,0 +1,10 @@
+C:\Users\Metin\source\repos\Metin Form\Grafik Oluştur\Grafik Oluştur\bin\Debug\Grafik Oluştur.exe.config
+C:\Users\Metin\source\repos\Metin Form\Grafik Oluştur\Grafik Oluştur\bin\Debug\Grafik Oluştur.exe
+C:\Users\Metin\source\repos\Metin Form\Grafik Oluştur\Grafik Oluştur\bin\Debug\Grafik Oluştur.pdb
+C:\Users\Metin\source\repos\Metin Form\Grafik Oluştur\Grafik Oluştur\obj\Debug\Grafik Oluştur.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\Grafik Oluştur\Grafik Oluştur\obj\Debug\Grafik_Oluştur.Form1.resources
+C:\Users\Metin\source\repos\Metin Form\Grafik Oluştur\Grafik Oluştur\obj\Debug\Grafik_Oluştur.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\Grafik Oluştur\Grafik Oluştur\obj\Debug\Grafik Oluştur.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\Grafik Oluştur\Grafik Oluştur\obj\Debug\Grafik Oluştur.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\Grafik Oluştur\Grafik Oluştur\obj\Debug\Grafik Oluştur.exe
+C:\Users\Metin\source\repos\Metin Form\Grafik Oluştur\Grafik Oluştur\obj\Debug\Grafik Oluştur.pdb
